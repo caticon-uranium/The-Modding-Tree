@@ -1,6 +1,6 @@
 let modInfo = {
 	name: "The Resetive Tree",
-	id: "mymod",
+	id: "caticoner",
 	author: "cat icon",
 	pointsName: "reset fragments",
 	modFiles: ["layers.js", "tree.js"],
